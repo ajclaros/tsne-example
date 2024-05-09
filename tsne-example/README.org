@@ -1,0 +1,3 @@
+#+title: README
+
+This is a rough example of plotting word embeddings using t-SNE.
